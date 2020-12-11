@@ -11,6 +11,6 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World...!!!");
 		System.out.println("Hi This is my First Program");
-		System.ot.println("This is Latest change");
+		System.out.println("This is Latest change");
 	}
 }
